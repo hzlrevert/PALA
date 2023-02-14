@@ -1,0 +1,42 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Creepster&display=swap');
+  
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: black;
+}
+
+html{
+    font-size: 62.5%;
+    background-color: black;
+    height: 100%;
+    font-family: 'Creepster', cursive;
+}
+h1{
+    color: crimson;
+    font-size: 80px;
+    font-family: 'Creepster', cursive;
+    
+    text-align: center;
+}
+ .div-tituloos{
+   text-align: center;
+ }
+ .TRABAJAR{
+    font-size: 100px;
+    font-family: 'Creepster', cursive;
+ }
+ body{
+    background-color: black;
+ }
+
+.fotes{
+    align-items: center;
+}
+
+.footer{
+    background-image: url(../img/depositphotos_456612684-stock-video-inside-a-scary-foggy-winter.jpg);
+}
